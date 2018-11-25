@@ -8,7 +8,7 @@ namespace TestConsoleApp
         {
             Console.WriteLine("Hello World!");
 
-            TestClass test = new TestClass(1, "Jarred");
+            Person test = new Person(1, "Jarred");
         }
     }
 }
